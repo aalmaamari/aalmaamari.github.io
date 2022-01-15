@@ -1,4 +1,10 @@
 body {
-  max-width: 400px;
-  margin: auto;
+  /* max-width: 400px; */
+  /* margin: auto; */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: rgb(32, 125, 223);
 }
